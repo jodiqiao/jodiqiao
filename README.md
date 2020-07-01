@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hi, this is Jodi.
+👋 Hi, this is Jodi 😄
 
 🌐 I want to make web-based data applications 📊
 </div>
