@@ -1,7 +1,7 @@
 <div align="center">
 👋 Hi, this is Jodi.
 
-🌐 Making web-based data applications 📊
+🌐 I want to make web-based data applications 📊
 </div>
 
 <!--
