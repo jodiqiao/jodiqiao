@@ -1,6 +1,8 @@
+<div align="center">
 ### 👋 Hi, this is Jodi.
 
 🌐 Making web-based data applications 📊
+</div>
 
 <!--
 **jodiqiao/jodiqiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
