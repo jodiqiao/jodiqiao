@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Interning at Health Canada as a Jr Data Scientist
 - Working on my programming skills in R, Python, JavaScript simultaneously
 - Reading about linear algebra and machine learning
-- Doodling away in Procreate on my iPad and designing in Adobe Ai, XD
+- Doodling away in Procreate on my iPad and designing in Adobe Ai, Xd
 
 ## Let's talk!
 
