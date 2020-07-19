@@ -25,7 +25,6 @@ What I'm up to:
 - Reading about linear algebra and machine learning
 - Doodling away in Procreate on my iPad and designing in Adobe Ai, Xd
 
-The week of Jul 13 - 17 is dedicated to designing in Adobe Xd.
 
 Let's talk!
 
