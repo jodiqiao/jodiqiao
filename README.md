@@ -25,7 +25,8 @@ What I'm up to:
 - Reading about linear algebra and machine learning
 - Doodling away in Procreate on my iPad and designing in Adobe Ai, Xd
 
-
 Let's talk!
 
 DM me about data science 🐙
+
+"How to make AI trustworthy" is something I've been googling a lot lately.
