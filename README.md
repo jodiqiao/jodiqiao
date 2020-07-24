@@ -29,4 +29,4 @@ Let's talk!
 
 DM me about data science 🐙
 
-"How to make AI trustworthy" is something I've been googling a lot lately.
+This week I'm translating design to a frontend skin in bootstrapstudio.
