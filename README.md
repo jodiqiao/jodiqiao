@@ -29,4 +29,4 @@ Let's talk!
 
 DM me about data science 🐙
 
-This week I'm translating design to a frontend skin in bootstrapstudio.
+Very little contributions recently, trying to write a report...
