@@ -28,5 +28,3 @@ What I'm up to:
 Let's talk!
 
 DM me about data science 🐙
-
-Very little contributions recently, trying to write a report...
