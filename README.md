@@ -27,4 +27,4 @@ What I'm up to:
 
 Let's talk!
 
-DM me about data science 🐙
+DM me about data science 🐙 or, check out my personal brand and Github organization at Muge Labs (bottom left corner)!
