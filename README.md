@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 -->
 
 What I'm up to:
-- Interning at Health Canada as a Jr Data Scientist
-- Working on my programming skills in R, Python, and React simultaneously
-- Reading about linear algebra and machine learning
-- Doodling away in Procreate on my iPad and designing in Adobe Ai, Xd
+- I'm working on my personal brand website that is 100% my own design, from scratch
+- Back at school
 
 Let's talk!
 
-DM me about data science 🐙 or, check out my personal brand and Github organization at Muge Labs (bottom left corner)!
+DM me about data science or web development 🐙
