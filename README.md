@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 
 What I'm up to:
-- I'm working on my personal brand website that is 100% my own design, from scratch
-- Back at school
+- I'm working on my personal website that is 100% my own design, from scratch
+- Working as a Jr Data Scientist for Health Canada again; our team has some exciting data engineering projects cooking!
 
 Let's talk!
 
