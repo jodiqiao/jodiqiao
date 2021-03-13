@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 
 What I'm up to:
-- I'm working on my personal website that is 100% my own design, from scratch
-- Working as a Jr Data Scientist for Health Canada again; our team has some exciting data engineering projects cooking!
+- Reading [Blueprints for Text Analytics Using Python by Albrecht, Ramachandran and Winkler](https://www.oreilly.com/library/view/blueprints-for-text/9781492074076/)
+- Redesigning some stuff and setting up a blog again
 
 Let's talk!
 
