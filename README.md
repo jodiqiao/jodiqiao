@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 What I'm up to:
 
-- Learning React
-- Learning Flutter
+- Learning React, Node and building PWAs
 
 Let's talk!
 
