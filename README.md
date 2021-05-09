@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 What I'm up to:
 
 - Learning React, Node and building PWAs
+- Featured project, [Simplexier](http://simplexier.herokuapp.com) (it's finicky, refresh)
 
 Let's talk!
 
