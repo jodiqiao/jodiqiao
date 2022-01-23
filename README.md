@@ -19,13 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-What I'm up to:
-
-- Learning React, Node and building PWAs
-- Featured project, [Simplexier](http://simplexier.herokuapp.com) but it's getting old
-
-My [reading list](https://github.com/jodiqiao/reads).
-
-Let's talk!
-
-DM me about data science or web development 🐙
+This is Jodi's GitHub. 👩‍💻
