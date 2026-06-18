@@ -9,6 +9,6 @@ UofT • 2014-2018 • Biochem, Cell & Systems Bio, Plant Science & Biotech
 
 uOttawa • 2019-2024 • Software Engineering, CS & Data
 
-Where to next?
+UofM • 2025-? • Interdisciplinary Trainee
 
 </div>
